@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antihamuthukumaran
 - 👀 I’m interested in Business Intelligence, Data Analytics, Data Engineer
-- 🌱  Experienced using Excel, SQL, Azure Data Studio, Microsoft Fabric and Power BI
+- 🌱  Experienced using Excel, SQL, Python, Azure Data Studio, Microsoft Fabric and Power BI
 - 💞️ I’m looking to collaborate on Business Intelligence, Data Analytics, Data Engineer and Power BI Analyst
 - 📫 You can reach me on anithamuthukumaran.j@gmail.com
 - 😄 Pronouns: She/Her
